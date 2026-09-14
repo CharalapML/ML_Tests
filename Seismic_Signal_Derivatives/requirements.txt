@@ -1,0 +1,15 @@
+# Core numerics / data handling
+numpy
+pandas
+scipy
+
+# Seismic data handling (spline detrend, TauP ray-path model, MiniSEED reading)
+obspy
+
+# Plotting
+matplotlib
+seaborn
+plotly==4.14.3
+
+# Notebook environment
+jupyter

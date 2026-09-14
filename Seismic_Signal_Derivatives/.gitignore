@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Seismic raw data (loaded from Google Drive in the notebook; not tracked here)
+*.BHZ
+*.mseed
+*.MSEED
+*.sac
+*.SAC
+ISC_RAWFILES*/
+data/
+
+# Generated outputs
+*.npy
+*.npz
+*.pkl
+*.csv
+*.png
+*.html
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
