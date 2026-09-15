@@ -1,0 +1,20 @@
+# Core numerics / data handling
+numpy
+scipy
+bottleneck
+
+# Deep learning (3D CNN encoder-decoder built with the Keras functional API)
+tensorflow
+keras
+
+# Train/test split
+scikit-learn
+
+# Plotting / model visualisation
+matplotlib
+visualkeras
+pydot
+graphviz
+
+# Notebook environment
+jupyter
