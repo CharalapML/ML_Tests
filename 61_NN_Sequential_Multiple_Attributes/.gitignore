@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Input datasets (loaded from Google Drive in the notebook; not tracked here)
+CNN_TestData/
+*.npy
+*.npz
+data/
+
+# Model artefacts and generated outputs
+*.h5
+*.keras
+saved_model/
+checkpoints/
+*.png
+*.pkl
+*.csv
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store

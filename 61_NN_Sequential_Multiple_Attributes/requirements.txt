@@ -1,0 +1,16 @@
+# Core numerics
+numpy
+
+# Deep learning (Keras Sequential 3D CNN)
+tensorflow
+keras
+
+# Train/test split
+scikit-learn
+
+# Plotting / model visualisation
+matplotlib
+visualkeras
+
+# Notebook environment
+jupyter
