@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CIFAR-10 is downloaded by keras.datasets at run time; not tracked here
+data/
+*.npy
+*.npz
+*.tar.gz
+
+# MLflow tracking store and artefacts (see README for how to browse them)
+outputs/
+mlruns/
+mlruns_ImgClass/
+mlartifacts/
+mlflow.db
+mlflow.db-journal
+
+# Model artefacts and generated figures
+*.keras
+*.h5
+saved_model/
+checkpoints/
+*.png
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store

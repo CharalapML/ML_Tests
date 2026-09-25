@@ -1,0 +1,23 @@
+# Core numerics
+numpy
+
+# Deep learning (Keras Sequential 2D CNN)
+tensorflow
+keras
+
+# Metrics
+scikit-learn
+
+# Image loading / resizing of the sample prediction image
+opencv-python
+
+# Plotting
+matplotlib
+
+# Experiment tracking. 3.x is required: the file-store backend used by earlier
+# versions of this notebook raises MlflowException, and this notebook uses the
+# SQLite backend instead.
+mlflow>=3,<4
+
+# Notebook environment
+jupyter
